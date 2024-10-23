@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2a0b6e9-0e80-4f4c-a88d-4c38292d8a3d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mockito_core.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/ExternalISBNDataService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/StockManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/com/example/StockManagementTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ISBNValidator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ISBNValidator.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/com/example/ValidateISBN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/ValidateISBN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/com/example/StockManagementTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/example/StockManagementTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,33 +34,33 @@
     <option name="showScratchesAndConsoles" value="false" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "JUnit.StockManagementTest.databaseIsNotUsedWhenDataIsNotPresent.executor": "Run",
-    "JUnit.StockManagementTest.databaseIsUsedWhenDataIsPresent.executor": "Debug",
-    "JUnit.StockManagementTest.testCanGetACorrectLocatorCode.executor": "Debug",
-    "JUnit.ValidateISBN.checkValidISBN.executor": "Run",
-    "JUnit.ValidateISBNTest.checkInValidateISBN.executor": "Run",
-    "JUnit.ValidateISBNTest.checkValidateISBN.executor": "Run",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;JUnit.StockManagementTest.databaseIsNotUsedWhenDataIsNotPresent.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StockManagementTest.databaseIsUsedWhenDataIsPresent.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.StockManagementTest.testCanGetACorrectLocatorCode.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.ValidateISBN.checkValidISBN.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ValidateISBNTest.checkInValidateISBN.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ValidateISBNTest.checkValidateISBN.executor&quot;: &quot;Run&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.example" />
@@ -159,8 +152,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.StockManagementTest.databaseIsUsedWhenDataIsPresent" />
         <item itemvalue="JUnit.StockManagementTest.databaseIsNotUsedWhenDataIsNotPresent" />
+        <item itemvalue="JUnit.StockManagementTest.databaseIsUsedWhenDataIsPresent" />
         <item itemvalue="JUnit.StockManagementTest.testCanGetACorrectLocatorCode" />
         <item itemvalue="JUnit.ValidateISBNTest.checkInValidateISBN" />
         <item itemvalue="JUnit.ValidateISBNTest.checkValidateISBN" />
@@ -185,22 +178,12 @@
       <updated>1729509969558</updated>
       <workItem from="1729509970647" duration="8355000" />
       <workItem from="1729580948372" duration="621000" />
-      <workItem from="1729583047507" duration="10341000" />
+      <workItem from="1729583047507" duration="11749000" />
+      <workItem from="1729667184399" duration="3798000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/example/StockManager.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
